@@ -1,7 +1,8 @@
 # EECE 430 : Software Engineering Project
 
 To run the project:
-1- Clone the GitHub repo to your desired location
+
+1- Clone the GitHub repo to your desired location & unzip the folder website.zip
 
 2- Configure the python environment
 
